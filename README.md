@@ -1,4 +1,4 @@
-### This is my personal website.
+### My personal website (currently unfinished).
 
 <!--
 **Jadongbong/Jadongbong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
