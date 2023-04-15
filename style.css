@@ -24,7 +24,7 @@
     max-width: 800px;
     margin: auto;
   }
-
+  
   header {
     background-color: #dcdcdc;
     padding: 20px;
@@ -46,8 +46,13 @@
   }
 
   h2 {
-  font-size: 24px;
+  font-size: 18px;
   color: #702222;
+  margin-bottom: 0;
+  }
+
+  p {
+    margin-top: 0;
   }
 
   footer {
