@@ -4,59 +4,50 @@
     line-height: 1.5;
     color: #333;
     margin: 0;
+    background-color: #F6F6F6;
+  }
+
+  #about {
+    min-height: 250px;
+    max-width: 800px;
+    margin: auto;
+  }
+
+  #researchsection {
+    min-height: 250px;
+    max-width: 800px;
+    margin: auto;
+  }
+
+  #hobbiessection {
+    min-height: 250px;
+    max-width: 800px;
+    margin: auto;
   }
 
   header {
-    background-color: #eee;
+    background-color: #dcdcdc;
     padding: 20px;
-    display: flex;
     justify-content: space-between;
   }
-  nav ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+  
+  a {
+    text-decoration: none;
+    color: #702222;
   }
-  nav li {
-  margin: 0 10px;
-  }
-  nav a {
-  color: #333;
-  text-decoration: none;
-  font-weight: bold;
-  }
-
 
   main {
   padding: 50px;
   }
 
-  section {
-  margin-bottom: 40px;
-  }
-
   h1 {
-  font-size: 40px;
-  margin-bottom: 20px;
+  font-size: 32px;
+  color: #702222;
   }
 
   h2 {
   font-size: 24px;
-  margin-bottom: 20px;
-  }
-
-  ul {
-  list-style: disc;
-  margin-left: 20px;
-  margin-bottom: 20px;
-  }
-  
-  .header {
-  font-size: 24px;
-  margin-bottom: 20px;
+  color: #702222;
   }
 
   footer {
@@ -70,23 +61,4 @@
   label {
   font-weight: bold;
   margin-bottom: 10px;
-  }
-
-  input,
-  textarea {
-  padding: 10px;
-  margin-bottom: 20px;
-  border: none;
-  border-radius: 5px;
-  }
-
-  input[type="submit"] {
-  background-color: #333;
-  color: #fff;
-  cursor: pointer;
-  transition: background-color 0.2s ease-in-out;
-  }
-
-  input[type="submit"]:hover {
-  background-color: #666;
   }
